@@ -25,4 +25,4 @@ He aplicado las reglas de normalización para que la base de datos sea profesion
 3.  **Pruebas:** He incluido unos `INSERT` básicos para que puedas ver el sistema en funcionamiento desde el primer segundo.
 
 
-![Texto alternativo](/home/camper/Documentos/Trabajos Andres/RetoBD/Reto_DB/Captura desde 2026-03-27 07-02-08.png)
+![Texto alternativo](https://github.com/Kiro061/Reto_DB/blob/main/Captura%20desde%202026-03-27%2007-02-08.png)
